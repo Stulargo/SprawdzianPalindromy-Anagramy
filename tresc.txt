@@ -1,0 +1,18 @@
+Zadanie 1
+Od uzytkownika pobrac 5 zdan conajmniej 2 wyrazowych, wyswietlic wszystkie
+a) wyznacz i wypisz ilosc literek 'a' w kazdym zdaniu //Zrobione
+b) wyznacz i wypisz ilosc spacji we wszystkich zdanaich //Zrobione
+c) Kazdy znak bedacy litera 'e' zamien na znak $ i zmienione zdania wyslij do pliku zmienione.txt //Zrobione
+d) Sprawdz czy ostatni wyraz kazdego zdania jest palindromem pierwotnie pobrane -wypisz kazdy ostatni wyraz danego zdania i bok napisz 0 lub 1
+
+
+
+Zadanie 2 
+W pliku slowa.txt zapisano 1000 wierszy. Kazdy z nich zawiera dwa niepuste slowa oddzielone spacja slowa skaldaja 
+sie wylacznie z wielkich literal alfabetu angielskiego.
+a) Podaj ile slow w pliku slowa.txt konzcy sie na litere A // Zrobione
+b) Podaj liczbę wierszy z pliku slowa.txt zawierajacych pary slow w ktorych pierwsze slowo zawiera sie w drugim slowie
+c) Anagram to slowo powstalem z przedstawienia liter danego slowa wykorzystujace wszystkie jego litery 
+Podaj liczbe wierszy w pliku slowa.txt w ktorych wystepuja pary slow takicg ze pierwsze slowa jest anagramem drugiego
+wypisz te pary do pliku wyniki.txt
+
